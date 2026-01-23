@@ -46,6 +46,11 @@ hash = "f56c370b32425962d0fe4a46b16a2e62fc50dc91ab415cd6ff1ae9630bddee70"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "136205914a8e3370ac4ab6d4f1a14d755921c176964867fef8d4ca945e32515f"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "7b1dd921e76b1e2b7b0b0262d423c8fa5202b8ee709c38ffab438ddd4252949c"
 metafile = true
@@ -121,6 +126,11 @@ hash = "3435f5b8a9cb39cb372ce8053b60a12c6930350644212065e11e37e637118de7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "c006beeec7fca82263506ab1fda78e472e54bb64be350e130902f4f475df25cb"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "91fb39ac230e5f6b85fb45cd49c99c3806606c9f96e1961787c047675c4712b1"
 metafile = true
@@ -138,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "e72b77792a8d646cb9ff26043d590041d3d8ed9aaedd0b097d5879c90525d70f"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
 metafile = true
 
 [[files]]
@@ -248,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "00bea828d2a2636dd46541b5f98cd067a9ba1c1a659849586c5096873b86a19c"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
 metafile = true
 
 [[files]]
