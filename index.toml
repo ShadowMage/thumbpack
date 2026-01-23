@@ -6,6 +6,11 @@ hash = "fb27b11ac5530247eb26ef9a59ed0959596acd994d635c5ebcc385ae1682a792"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "2a6d398aa111a6448b1d4072e34f61294a517d2c8545cb0aa4239ea8ad63ce45"
 metafile = true
@@ -71,6 +76,11 @@ hash = "90eff86dd87a980cabf0ed7e1eddfdcf5f8ea843bfa1777f1daad1d3a6746b4e"
 metafile = true
 
 [[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "978586ac2d00b1117b6af9a977dd8fa7d1e29b683aa0d13fc0f6455d7cade48c"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "1bdf260b93529024685ade5d272bfeca5703b4a9fdb50bb86917e94834c60d8a"
 metafile = true
@@ -108,6 +118,16 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "f3415c3e457db0c463de8257ba64729ba1f29a9fda1cc29fb882c97225145784"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "de05b89fa3dcbba78114f1616a1852310873858de33671ba0ec5127c5dd88135"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "e72b77792a8d646cb9ff26043d590041d3d8ed9aaedd0b097d5879c90525d70f"
 metafile = true
 
 [[files]]
@@ -161,6 +181,11 @@ hash = "6b5af5436645a6d990324f845314edbcdc9977131f7ea2b79694ef97f011cc51"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
+metafile = true
+
+[[files]]
 file = "mods/rats.pw.toml"
 hash = "e7b0b4347c718c5b6ba50334d950a7f004348bfeb0dfd2b747c1f35d3145c966"
 metafile = true
@@ -178,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a811fe1e9fc7a2eeb10909881a714644bccfed5b4887d61f84a20b073b1fcd4c"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "7bb9b367774fd68ce3e0c600f41f5c882b2232a203d3132b7224229ae73f9534"
 metafile = true
 
 [[files]]
