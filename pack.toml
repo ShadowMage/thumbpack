@@ -1,0 +1,13 @@
+name = "thumbpack"
+author = "jack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "db96b7467670a3e10a18d5f6c0e29bac4ea6b53803bde591589ec9e2ec4d47a0"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"
