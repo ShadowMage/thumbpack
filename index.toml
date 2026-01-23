@@ -51,11 +51,6 @@ hash = "f56c370b32425962d0fe4a46b16a2e62fc50dc91ab415cd6ff1ae9630bddee70"
 metafile = true
 
 [[files]]
-file = "mods/corail-tombstone.pw.toml"
-hash = "136205914a8e3370ac4ab6d4f1a14d755921c176964867fef8d4ca945e32515f"
-metafile = true
-
-[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "7b1dd921e76b1e2b7b0b0262d423c8fa5202b8ee709c38ffab438ddd4252949c"
 metafile = true
@@ -118,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "361a2451dc12db42636eed5aab8c03f8a281347504e0131346a3ec8b8273333b"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "b55f3276124e13e8b3899d4d0400e990dea41d228644be34b341e62fe8abed6e"
 metafile = true
 
 [[files]]
