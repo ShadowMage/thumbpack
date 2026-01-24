@@ -41,6 +41,11 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "8a700d602de5bde4557c97a10fb50a9ab7d215313a9b6dadf89283a0ff3c32aa"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
 metafile = true
 
 [[files]]
@@ -266,6 +276,11 @@ hash = "7360013364f71b7967296d87a994a8e510e893ec9cfabd6e243293a6998189ca"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "215cb5123319ccd019db178b94ab2ab70db66a11c1b0ae722afefea885396e7a"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "96008b869b133a400c97313afa460bda3b4d43aeddcafaf04c4141f9193f3095"
 metafile = true
@@ -311,13 +326,28 @@ hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
 metafile = true
 
 [[files]]
+file = "mods/reds-more-structures.pw.toml"
+hash = "27ab5fcaaa1822897794ad7f44e1e5ea1b297e0e4a6dc73038347f53ef268f5b"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "8d9cfd22181ae67b178a4ce2e29c05262170fbfba46435dbfb090e73856e0c88"
 metafile = true
 
 [[files]]
+file = "mods/sawmill.pw.toml"
+hash = "03df4d26153286220dd3e423d9682b90764ee827685e8e2969c74a9ee11a40e0"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "e461c1d7534ab618fc1ff30071f4342b1de2bd8037b8ee0238530c7552c32b07"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "0db6d8d14e1a94dc32492e28bd9c369713c5b58c8dfa64175e4e8ebf09dd6faf"
 metafile = true
 
 [[files]]
@@ -346,8 +376,23 @@ hash = "866baca6c0bd619c207a372afb52b4ea99dc06f435f02fdf3363ddb7eef8342e"
 metafile = true
 
 [[files]]
+file = "mods/spartan-weaponry-addon-toolkit.pw.toml"
+hash = "319c31c4fd88146a7239e6903de802b6a50cc9d5ab35074537aaa0d9680d0e12"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry-ice-and-fire.pw.toml"
+hash = "39a17d3a5056ced1c3c0d94857e7a5e5e2cf8de1ff0ce107051f1b6ef6099111"
+metafile = true
+
+[[files]]
 file = "mods/spartan-weaponry.pw.toml"
 hash = "74ea4dfd995e75e83d0e0ffc80ffa97c80f56563e1affaf65837c916f38407fa"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "7262f4ef1f6a42e2348537571f2adf9453381ead2a7cc2bff7384b8bbe45cc84"
 metafile = true
 
 [[files]]
