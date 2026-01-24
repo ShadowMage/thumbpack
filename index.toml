@@ -126,6 +126,11 @@ hash = "978586ac2d00b1117b6af9a977dd8fa7d1e29b683aa0d13fc0f6455d7cade48c"
 metafile = true
 
 [[files]]
+file = "mods/fantasy-armor.pw.toml"
+hash = "db7410e867121bdfd2ae862e653111dae6fe3b33b1388fc205a906ae6cbe3f6d"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
