@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3435f5b8a9cb39cb372ce8053b60a12c6930350644212065e11e37e637118de7"
+hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
+hash = "79ce2425ff42c8f5b7262ca67038cbb7e080cee309785b087abaf206c200da68"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "76e4681bea67f97c8cd0b14c289cf1fbc71a6b475929fafc4132040becdc9047"
+hash = "40a73f377f8dcf95c0e801bdc69e68bc4a2d29ec0bcf17f4dcb1a78f887021d1"
 metafile = true
 
 [[files]]
