@@ -5,10 +5,6 @@ file = "config/forge-client.toml"
 hash = "1f776cff255a62036f2f721c1b516a20a49fd7fd11de442e36a19fe4ecd4f3a0"
 
 [[files]]
-file = "config/unionlib-client.toml"
-hash = "8d073a8e132b08cb4eeaf69ef49e490dbbfc3a897745c70d7179b27372ee200b"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5d3f94d4280b3367a376f086018a4005866ddecbe80b6abb0849e5d995a98e9d"
 metafile = true
@@ -26,11 +22,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas.pw.toml"
-hash = "e068f381771ebf7ef012bd51ba2dd9a7b81ad0e40e3fd7847b98aa70d3d5e52a"
 metafile = true
 
 [[files]]
@@ -446,11 +437,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
-metafile = true
-
-[[files]]
-file = "mods/unionlib.pw.toml"
-hash = "d3dfcdd4566dadc0a2a37ff99639ab565cf278b1205d0e80275b78897ce899ed"
 metafile = true
 
 [[files]]
