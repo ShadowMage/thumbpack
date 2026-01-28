@@ -441,6 +441,11 @@ hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
 metafile = true
 
 [[files]]
+file = "mods/unionlib.pw.toml"
+hash = "d3dfcdd4566dadc0a2a37ff99639ab565cf278b1205d0e80275b78897ce899ed"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "00bea828d2a2636dd46541b5f98cd067a9ba1c1a659849586c5096873b86a19c"
 metafile = true
