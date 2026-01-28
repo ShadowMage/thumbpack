@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/forge-client.toml"
+hash = "1f776cff255a62036f2f721c1b516a20a49fd7fd11de442e36a19fe4ecd4f3a0"
+
+[[files]]
+file = "config/unionlib-client.toml"
+hash = "8d073a8e132b08cb4eeaf69ef49e490dbbfc3a897745c70d7179b27372ee200b"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5d3f94d4280b3367a376f086018a4005866ddecbe80b6abb0849e5d995a98e9d"
 metafile = true
