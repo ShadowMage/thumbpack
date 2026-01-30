@@ -90,6 +90,11 @@ hash = "492359a6ce93fbf09eb6e1d20b761a5538fe9197e7d129949234d83b87e06bc1"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "58bf97ca61f74ea9a540f6e6090aef631155748c49b83a7a338b34d8dece9109"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "ddd7699a3abd3471af5313377a453fd5d9cef5317a0adcccb460a37087ba423c"
 metafile = true
