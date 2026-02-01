@@ -175,6 +175,11 @@ hash = "1bdf260b93529024685ade5d272bfeca5703b4a9fdb50bb86917e94834c60d8a"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
@@ -272,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "34368d9fda0f24c36faf7c9c32b48316541844eb4ef75373fc32ebb75f890609"
+metafile = true
+
+[[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "b320c2f668b8789fd4d009899c7826862934129bb49f8cfc76a8164096020dce"
 metafile = true
 
 [[files]]
