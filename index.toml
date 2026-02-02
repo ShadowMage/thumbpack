@@ -205,6 +205,11 @@ hash = "5cc6ba3c65186988790abfb0213393f6b886fad92f33a097815b21672cfc2d32"
 metafile = true
 
 [[files]]
+file = "mods/hourglass.pw.toml"
+hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "757e02e33252ae35ee2307996eef59f8b42d218db6ebb30164a230201312b7e6"
 metafile = true
