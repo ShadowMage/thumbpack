@@ -5,6 +5,34 @@ file = "config/forge-client.toml"
 hash = "1f776cff255a62036f2f721c1b516a20a49fd7fd11de442e36a19fe4ecd4f3a0"
 
 [[files]]
+file = "journeymap/config/5.10/journeymap.core.config"
+hash = "699eb3efa5c858fdd0574b9f8001b8f768da336d915e189b40a6f1d270c84bac"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.fullmap.config"
+hash = "3a512cbe098cef6594242afeceae9606d5f745d5959cdc4669dc358423d3cac4"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.minimap.config"
+hash = "05b683f14f186d20399004d3bc6f8c8cd933a99807b644a7983f49b6fbb028c5"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.minimap2.config"
+hash = "d626ce0b51caf03f48267613d4edb1059114bce5daefc0b2904ed0c85709094a"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.topo.config"
+hash = "8f950f1d2fec134c0daa79191b88227d5976e4cf7dc71bbf732efc69a62f5b24"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.waypoint.config"
+hash = "3564851fbc00c4d297a11c69089d02c3cda033eede11b843f1e62da37cbf6ab2"
+
+[[files]]
+file = "journeymap/config/5.10/journeymap.webmap.config"
+hash = "2c939e2308e7d7d419af26ad342479690e8ae321c7af3ba64d8b0e897ccc8b5b"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5d3f94d4280b3367a376f086018a4005866ddecbe80b6abb0849e5d995a98e9d"
 metafile = true
