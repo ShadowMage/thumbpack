@@ -1,0 +1,13 @@
+name = "More Magichem Labels"
+filename = "moremagichemlabels-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c9aaf297e872f07ed2f0a86d37ea64937e7ef42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7509200
+project-id = 1345243

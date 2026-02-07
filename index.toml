@@ -55,6 +55,11 @@ hash = "8a700d602de5bde4557c97a10fb50a9ab7d215313a9b6dadf89283a0ff3c32aa"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "2adb8c4c9a368dac1980d99180bec4ff1ec51d8c01d73093bcc2610e95803cd9"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "6a144cc70e30220d743320fd99debd3aeab1dc6c4913cafa9cf8f02a020c5344"
 metafile = true
@@ -65,8 +70,18 @@ hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
 metafile = true
 
 [[files]]
+file = "mods/chalk.pw.toml"
+hash = "f928175ba3f7fe5499a532622dd7dd85c2b6aeef84a2e50f7eb88c5d2cb8e563"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "913bbc46f7ebbae12ee05efee5810b4c56a027336acc929951ee3bae1f084275"
 metafile = true
 
 [[files]]
@@ -176,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
+hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
 metafile = true
 
 [[files]]
@@ -226,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "c006beeec7fca82263506ab1fda78e472e54bb64be350e130902f4f475df25cb"
+hash = "2af801d2d7346615b495e173589d8835486f1aa6202b7fb997f78ca3092bceb0"
 metafile = true
 
 [[files]]
@@ -252,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "f3415c3e457db0c463de8257ba64729ba1f29a9fda1cc29fb882c97225145784"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "664a573384edf644e9b788c7c29fe32593917ac8283bb794cc46b471a0a6504a"
 metafile = true
 
 [[files]]
@@ -285,8 +305,18 @@ hash = "34368d9fda0f24c36faf7c9c32b48316541844eb4ef75373fc32ebb75f890609"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
+metafile = true
+
+[[files]]
 file = "mods/mighty-mail.pw.toml"
 hash = "b320c2f668b8789fd4d009899c7826862934129bb49f8cfc76a8164096020dce"
+metafile = true
+
+[[files]]
+file = "mods/mnaoverpowered.pw.toml"
+hash = "aac7f7cde7a28ced9a50cd791cf6e456e59642fe5952b61fdc05f4b389116efd"
 metafile = true
 
 [[files]]
@@ -295,8 +325,23 @@ hash = "17523abe76f282db11e95a033e504c1da3f82ac23a42e169d6b1e4d59b6a18d6"
 metafile = true
 
 [[files]]
+file = "mods/more-magichem-labels.pw.toml"
+hash = "950207c1fa99e56225e2215b1efdd1ed57241d3ca76ed3553414b602733c652d"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "a9b313e2144b4b437d05e94ac6c7c583d8c6f0585efb1cd7c40d02540af045c5"
+metafile = true
+
+[[files]]
+file = "mods/moyai.pw.toml"
+hash = "8b2ccdad103cc06f03613e0df6654459159707596467b685d98920cbdc27db08"
+metafile = true
+
+[[files]]
+file = "mods/mystical-oak-tree.pw.toml"
+hash = "e37f81b9e82e757ba91a3efc644ec63dfcac7f89d87a83032f02ea637b955f52"
 metafile = true
 
 [[files]]
@@ -435,13 +480,33 @@ hash = "371b68e257eaca322ca4e95f4aa8d95441d84110b69243dda818f743a0111ba5"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "40a73f377f8dcf95c0e801bdc69e68bc4a2d29ec0bcf17f4dcb1a78f887021d1"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "261f9601fad172fab2fe4f5d6c7b265f9635993f2f8ba4d3d009ab3fca06647c"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "74a64acbd2275c16e47fb17e74bcd431779674cefa1f54f67f15b4d9b955aec7"
+metafile = true
+
+[[files]]
 file = "mods/toast-control.pw.toml"
 hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack.pw.toml"
+hash = "1f1a8122f7fa9acb98adfab70d8f073850f2979b493e5bba6dbaeb03d7957613"
 metafile = true
 
 [[files]]
