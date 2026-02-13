@@ -1,13 +1,13 @@
 name = "MNAOverpowered"
-filename = "mnaoverpowered-1.20.1-0.6.0.jar"
+filename = "mnaoverpowered-1.20.1-0.6.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9cbb856ca50d4637944bce929429431486909d2f"
+hash = "6ac87f3ce9bfd66c1692918c1f6e660b509e9ba3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7589114
+file-id = 7617475
 project-id = 1374012

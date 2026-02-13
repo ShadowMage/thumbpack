@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "bb4b4e11518a8c5c2c6d6eaaf4ebbfa7c00ceb0c64d0019552602a12a11af399"
+hash = "acf0ea711f50468d068acc359218d54bdf6986779d6268c243e7cbd8f6247023"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/mnaoverpowered.pw.toml"
-hash = "e1c6a27c5a6be6a05a994fd7bfeda87d2732a93807803869145a94368284d5f5"
+hash = "475a89e11201de72b5cef11c358307953558aab8e23b4046fdb37d368a50497a"
 metafile = true
 
 [[files]]
@@ -459,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a811fe1e9fc7a2eeb10909881a714644bccfed5b4887d61f84a20b073b1fcd4c"
+hash = "3ccd739fd0d5818dd04e66f71603ccb25d6e5c441480b0160e16c4e59978bd99"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/simplehats.pw.toml"
-hash = "33939c251677f80d437385995c129840636a24492a0b5996c16159bb0f930338"
+hash = "f1d0143e260bc43f592ccf681ab487bfa9579198f426c54c2b0013a2dfdfb449"
 metafile = true
 
 [[files]]
