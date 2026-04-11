@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquamirae.pw.toml"
-hash = "6f972ad414cf472010155d725c073a2857e4ce7f2ffcf02f0bee935f90481cd2"
+hash = "43be7122afedaf276bec92c09739f6bca55c64c3838de71b8eab0d7b7afde9e9"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "492359a6ce93fbf09eb6e1d20b761a5538fe9197e7d129949234d83b87e06bc1"
+hash = "a7fac0e9aaab33cd3dbace6a0d29940c7e811925eeb704b2593307f1fd8accc8"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "acf0ea711f50468d068acc359218d54bdf6986779d6268c243e7cbd8f6247023"
+hash = "7e58c4b66225f8719153ab8dbafd5973a04a0ec5bb400027cb1d6c482010d08a"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantasy-armor.pw.toml"
-hash = "db7410e867121bdfd2ae862e653111dae6fe3b33b1388fc205a906ae6cbe3f6d"
+hash = "ca19ff6f366a9947599f33fda0f5f570df3965a35230e87221c4d1f4480d2069"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "2af801d2d7346615b495e173589d8835486f1aa6202b7fb997f78ca3092bceb0"
+hash = "ddf044cd383284eba35cca0365832991cc2abd908f644aaefebc060765ecd5a5"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "9482df68dbfa37997b45261992051d5dbcbb0d3d9f4ca766d548bcffdf825060"
+hash = "421e79119a54be9d0b6717ea029b85c64bb7d27022cd94a01fc5cd2c94d39bff"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/magichem.pw.toml"
-hash = "84ab79f472159b0ae4c5711769340771f131a798db0ee311402b520bd2858f79"
+hash = "3868455c2eebabe528e5dd7ec3e1dc679eb0d0bc396aa01968136da0a900f01c"
 metafile = true
 
 [[files]]
@@ -348,17 +348,17 @@ metafile = true
 
 [[files]]
 file = "mods/mnaoverpowered.pw.toml"
-hash = "5cad4a7c6cc92ec519542cc077608df9e8ea3725ba7246cda5ca2eb548549781"
+hash = "6fa517704c3b60b601f6bddbd6a300384c09b9603a0ed9ee3e7db1768910c57c"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "17523abe76f282db11e95a033e504c1da3f82ac23a42e169d6b1e4d59b6a18d6"
+hash = "f0d2394f2d9c3e7d25f744aabc26fbc806eb8694e239b333cfe56e4a6df07f17"
 metafile = true
 
 [[files]]
 file = "mods/more-magichem-labels.pw.toml"
-hash = "950207c1fa99e56225e2215b1efdd1ed57241d3ca76ed3553414b602733c652d"
+hash = "0dac12b3d0183078e8704087ccc9afaf03fd8144e5cda0d72d9d20c1e16b3cd7"
 metafile = true
 
 [[files]]
@@ -398,12 +398,12 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "3efaf9fdcb2c72a5f5a98431bd0f9002a6e30ae458b6d6d712d86f9dfc4c016e"
+hash = "910bf8541d58020d34c119cd3b35bd3d4fc3954db80ba22f2db98849a1b40357"
 metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "30327131c2d8ecc468417b5b61f974a3cc5ee3ef66245d8931e604c8ca5af289"
+hash = "2a6cecc87fb42098b8b4a6ca813ce1ae362d43841918957c2388dff65149315c"
 metafile = true
 
 [[files]]
@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3ccd739fd0d5818dd04e66f71603ccb25d6e5c441480b0160e16c4e59978bd99"
+hash = "6a71d72fcab90cd300b4a575a306f53c3e86c50ab01adfcfe2611537ed8bab93"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "40a73f377f8dcf95c0e801bdc69e68bc4a2d29ec0bcf17f4dcb1a78f887021d1"
+hash = "b6a895f1b93c2e70488e8b0ae289ef03257bf25d91e5d92211bfaedd54889dde"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
-hash = "1f1a8122f7fa9acb98adfab70d8f073850f2979b493e5bba6dbaeb03d7957613"
+hash = "c260d7d9a73cb11fff8199cc2d87ceaa95655ce91e1b0e3ef5ead3096510e969"
 metafile = true
 
 [[files]]
